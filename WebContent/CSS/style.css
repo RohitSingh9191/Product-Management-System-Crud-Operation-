@@ -1,0 +1,46 @@
+a{
+	font-size:22px;
+}
+.dv{
+	text-align: center;
+	margin-top:50px;
+}
+.tb{
+	font-size:20px;
+	border-radius: 5px;
+	width:100%;
+}
+.ta{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	border:5px groove green;
+	font-size:20px;
+	border-radius: 5px;
+	background-color:cyan;
+}
+.bt{
+	font-size:18px;
+	color:white;
+	background-color:blue;
+	padding:3px 10px;
+	border:none;
+	cursor: hand;
+	border-radius: 5px;
+}
+.mn{
+	margin-left:auto;
+	margin-right:auto;
+	width:60%;
+}
+.pd{
+	padding:10px;
+}
+.tar{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	border-collapse:collapse; 
+	width:50%;
+	font-size:20px;
+}
